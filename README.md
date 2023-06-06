@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LuThanhThien
-- 👀 I’m interested in Artificial Intelligence, Bussiness Intelligence
-- 🌱 I’m currently interested in Computer Vision, Machine Learning, Data analytics
-- 💞️ I’m looking to collaborate on Bussiness Intelligence Analysis and Computer Vision projects (for freshers)
+- 👀 I’m interested in Artificial Intelligence, Computer Vision, Machine Learning, Data analytics
+- 💞️ I’m looking to collaborate on Computer Vision or Machine Learning projects 
 - 📫 Reach me through Linkedin: https://www.linkedin.com/in/ltthien2001/
 
 <!---
