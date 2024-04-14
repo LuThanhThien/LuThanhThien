@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuThanhThien
-- 👀 I’m interested in Computer Vision, Machine Learning
+- 👀 I’m interested in Machine Learning
 - 📫 Reach me through Linkedin: https://www.linkedin.com/in/ltthien2001/
 
 <!---
